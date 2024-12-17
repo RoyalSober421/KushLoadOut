@@ -1,0 +1,309 @@
+{
+  "name": "KushLoadOut4",
+  "spawnWeight": 1,
+  "characterTypes": [],
+  "attachmentSlotItemSets": [
+    {
+      "slotName": "shoulderL",
+      "discreteItemSets": [
+        {
+          "itemType": "AKM",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "AK_Suppressor",
+            "AK_WoodBttstck",
+            "AK_WoodHndgrd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "shoulderR",
+      "discreteItemSets": [
+        {
+          "itemType": "Aug",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Mag_STANAG_60Rnd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Vest",
+      "discreteItemSets": [
+        {
+          "itemType": "PlateCarrierVest_Winter",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Headgear",
+      "discreteItemSets": [
+        {
+          "itemType": "Mich2001Helmet",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": [
+            {
+              "itemType": "NVGoggles",
+              "attributes": {
+                "healthMin": 1,
+                "healthMax": 1,
+                "quantityMin": 1,
+                "quantityMax": 1
+              },
+              "quickBarSlot": -1,
+              "simpleChildrenUseDefaultAttributes": true,
+              "simpleChildrenTypes": [
+                "Battery9V"
+              ]
+            },
+            {
+              "itemType": "UniversalLight",
+              "attributes": {
+                "healthMin": 1,
+                "healthMax": 1,
+                "quantityMin": 1,
+                "quantityMax": 1
+              },
+              "quickBarSlot": -1,
+              "simpleChildrenUseDefaultAttributes": true,
+              "simpleChildrenTypes": [
+                "Battery9V"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slotName": "Armband",
+      "discreteItemSets": [
+        {
+          "itemType": "Armband_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Gloves",
+      "discreteItemSets": [
+        {
+          "itemType": "TacticalGloves_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Body",
+      "discreteItemSets": [
+        {
+          "itemType": "OMKJacket_Navy",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Candycane_Red",
+            "Candycane_Red",
+            "Candycane_Red",
+            "Candycane_Red",
+            "Apple",
+            "Apple",
+            "PeachesCan",
+            "PeachesCan",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "SodaCan_Fronta",
+            "SodaCan_Fronta",
+            "SodaCan_Fronta"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Legs",
+      "discreteItemSets": [
+        {
+          "itemType": "OMKPants_Navy",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Ammo_762x39Tracer",
+            "Ammo_762x39Tracer",
+            "Ammo_762x39Tracer",
+            "SodaCan_Pipsi",
+            "SodaCan_Pipsi",
+            "SodaCan_Pipsi"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Feet",
+      "discreteItemSets": [
+        {
+          "itemType": "CombatBoots_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Back",
+      "discreteItemSets": [
+        {
+          "itemType": "CoyoteBag_Winter",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Chips",
+            "Chips",
+            "Chips",
+            "TunaCan_Opened",
+            "TunaCan_Opened",
+            "TunaCan_Opened",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "CannabisSeedsPack",
+            "CannabisSeedsPack",
+            "CannabisSeedsPack"  
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Hips",
+      "discreteItemSets": [
+        {
+          "itemType": "HipPack_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Canteen"  
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    }
+  ],
+  "discreteUnsortedItemSets": [
+    {
+      "name": "Cargo1",
+      "spawnWeight": 1,
+      "attributes": {
+        "healthMin": 1,
+        "healthMax": 1,
+        "quantityMin": 1,
+        "quantityMax": 1
+      },
+      "quickBarSlot": -1,
+      "simpleChildrenUseDefaultAttributes": false,
+      "simpleChildrenTypes": [
+        "ChernarusMap"
+      ],
+      "complexChildrenTypes": []
+    }
+  ]
+}

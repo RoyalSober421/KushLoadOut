@@ -1,0 +1,301 @@
+{
+  "name": "ChristmasLoadOut",
+  "spawnWeight": 1,
+  "characterTypes": [],
+  "attachmentSlotItemSets": [
+    {
+      "slotName": "shoulderL",
+      "discreteItemSets": [
+        {
+          "itemType": "AKM",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": 0,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "AK_WoodBttstck_Black",
+            "AK_Suppressor",
+            "AK_RailHndgrd_Black",
+            "Mag_AKM_Drum75Rnd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "shoulderR",
+      "discreteItemSets": [
+        {
+          "itemType": "M4A1_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "M4_Suppressor",
+            "M4_RISHndgrd_Black",
+            "M4_MPBttstck",
+            "Mag_STANAG_60Rnd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Vest",
+      "discreteItemSets": [
+        {
+          "itemType": "PlateCarrierVest_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Headgear",
+      "discreteItemSets": [
+        {
+          "itemType": "SantasHat",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Armband",
+      "discreteItemSets": [
+        {
+          "itemType": "Armband_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Gloves",
+      "discreteItemSets": [
+        {
+          "itemType": "WoolGloves_ChristmasRed",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Body",
+      "discreteItemSets": [
+        {
+          "itemType": "TrackSuitJacket_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Candycane_Red",
+            "Candycane_Green",
+            "Candycane_RedGreen",
+            "Candycane_Yellow",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_762x39Tracer_20Rnd",
+            "AmmoBox_762x39Tracer_20Rnd",
+            "AmmoBox_762x39Tracer_20Rnd",
+            "SodaCan_Kvass",
+            "SodaCan_Pipsi",
+            "SodaCan_Pipsi",
+            "SodaCan_Kvass"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Legs",
+      "discreteItemSets": [
+        {
+          "itemType": "TrackSuitPants_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Apple",
+            "Apple",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_556x45Tracer_20Rnd",
+            "AmmoBox_762x39Tracer_20Rnd",
+            "AmmoBox_762x39Tracer_20Rnd",
+            "SodaCan_Cola",
+            "SodaCan_Cola"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Feet",
+      "discreteItemSets": [
+        {
+          "itemType": "Sneakers_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Mask",
+      "discreteItemSets": [
+        {
+          "itemType": "SantasBeard",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Back",
+      "discreteItemSets": [
+        {
+          "itemType": "DryBag_Red",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Candycane_Yellow",
+            "Candycane_Yellow",
+            "UnknownFoodCan_Opened",
+            "UnknownFoodCan_Opened",
+            "SodaCan_Spite",
+            "SodaCan_Spite",
+            "Battery9V",
+            "Mag_STANAG_60Rnd"  
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Hips",
+      "discreteItemSets": [
+        {
+          "itemType": "HipPack_Party",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Canteen"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    }
+  ],
+  "discreteUnsortedItemSets": [
+    {
+      "name": "Cargo3",
+      "spawnWeight": 1,
+      "attributes": {
+        "healthMin": 1,
+        "healthMax": 1,
+        "quantityMin": 1,
+        "quantityMax": 1
+      },
+      "quickBarSlot": -1,
+      "simpleChildrenUseDefaultAttributes": false,
+      "simpleChildrenTypes": [
+        "ChernarusMap",
+        "NVGoggles",
+        "NVGHeadstrap",
+        "Battery9V"  
+      ],
+      "complexChildrenTypes": []
+    }
+  ]
+}
